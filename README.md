@@ -75,6 +75,7 @@ The maxEpochs value was equal to the value of 25, and the miniBatchSize was equa
 ![image](https://user-images.githubusercontent.com/47817099/141447928-8dbba7e8-078f-4f12-a7f7-b77e56100ebf.png)
 
 The training of the NN:
+
 ![image](https://user-images.githubusercontent.com/47817099/141448505-dc64470e-4b33-4335-9266-26c32cf82e5c.png)
 
 ### MATLAB Code:
