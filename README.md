@@ -1,6 +1,6 @@
 # ROBT-403-Laboratory-6
 ROBT-403-Laboratory-6
-
+Mukhamedzhan Nurmukhamed
 # Lab 6
 ### Initial Conditions:
 Initially, the error was as 37.02%:
